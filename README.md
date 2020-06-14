@@ -1,3 +1,3 @@
 # MyBrainWontRemberThis
 
-- [RaspberryPI](./RaspberryPI)
+- [RaspberryPI](./RaspberryPI.md)
